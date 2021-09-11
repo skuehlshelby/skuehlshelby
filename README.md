@@ -1,6 +1,6 @@
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-
+<a href="#"><img src="https://img.shields.io/badge/Office_Extensibility-Expert-_.svg?logo=microsoftoffice"></a>
 <!--
 **skuehlshelby/skuehlshelby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
