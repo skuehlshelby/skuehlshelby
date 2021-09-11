@@ -1,7 +1,7 @@
 ## 🔧 Technologies & Tools
 <a href="#"><img src="https://img.shields.io/badge/Editor-Visual_Studio-_.svg?logo=visualstudio"></a>
 <a href="#"><img src="https://img.shields.io/badge/Editor-VS_Code-_.svg?logo=visualstudiocode"></a>
-<a href="#"><img src="https://img.shields.io/badge/Editor-IntelliJ-IDEA-_.svg?logo=intellijidea"></a>
+<a href="#"><img src="https://img.shields.io/badge/Editor-IntelliJ_IDEA-_.svg?logo=intellijidea"></a>
 <a href="#"><img src="https://img.shields.io/badge/Version_Control-Git-_.svg?logo=git"></a>
 <a href="#"><img src="https://img.shields.io/badge/Dot_NET-Advanced-_.svg?logo=dotnet"></a>
 <a href="#"><img src="https://img.shields.io/badge/Blazor_WebAssembly-Learning-_.svg?logo=blazor"></a>
