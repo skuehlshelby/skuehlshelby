@@ -1,4 +1,5 @@
-## 🔧 Technologies & Tools
+<a href="#"><img src="https://unsplash.com/photos/cG8OpK4VZW8 height="100px" width="500px"></a>
+## 🔧 Technologies & Tools I Use
 <a href="#"><img src="https://img.shields.io/badge/Editor-Visual_Studio-_.svg?logo=visualstudio"></a>
 <a href="#"><img src="https://img.shields.io/badge/Editor-VS_Code-_.svg?logo=visualstudiocode"></a>
 <a href="#"><img src="https://img.shields.io/badge/Editor-IntelliJ_IDEA-_.svg?logo=intellijidea"></a>
@@ -6,21 +7,5 @@
 <a href="#"><img src="https://img.shields.io/badge/C_Sharp-Advanced-_.svg?logo=dotnet"></a>
 <a href="#"><img src="https://img.shields.io/badge/Visual_Basic-Advanced-_.svg?logo=dotnet"></a>
 <a href="#"><img src="https://img.shields.io/badge/Java-Intermediate-_.svg?logo=java"></a>
+<a href="#"><img src="https://img.shields.io/badge/PHP-Intermediate-_.svg?logo=php"></a>
 <a href="#"><img src="https://img.shields.io/badge/Blazor_WebAssembly-Learning-_.svg?logo=blazor"></a>
-
-
-
-<!--
-**skuehlshelby/skuehlshelby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
