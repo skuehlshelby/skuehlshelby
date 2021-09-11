@@ -1,4 +1,6 @@
-<a href="#"><img src="img/mushroom.webp" height="100px" width="800px" style="object-fit: cover"></a>
+<div style="overflow: hidden">
+	<a href="#"><img src="img/mushroom.webp"></a>
+</div>
 
 ## 🔧 Technologies & Tools I Use
 <a href="#"><img src="https://img.shields.io/badge/Editor-Visual_Studio-_.svg?logo=visualstudio"></a>
