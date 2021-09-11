@@ -1,6 +1,4 @@
-<div height="100" width="1000" style="overflow: hidden">
-	<a href="#"><img src="img/mushroom.webp"></a>
-</div>
+<a href="#"><img src="img/mushroom.png"></a>
 
 ## 🔧 Technologies & Tools I Use
 <a href="#"><img src="https://img.shields.io/badge/Editor-Visual_Studio-_.svg?logo=visualstudio"></a>
