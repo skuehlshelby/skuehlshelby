@@ -1,6 +1,13 @@
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-<a href="#"><img src="https://img.shields.io/badge/Office_Extensibility-Expert-_.svg?logo=microsoftoffice"></a>
+<a href="#"><img src="https://img.shields.io/badge/Editor-Visual_Studio-_.svg?logo=visualstudio"></a>
+<a href="#"><img src="https://img.shields.io/badge/Editor-VS_Code-_.svg?logo=visualstudiocode"></a>
+<a href="#"><img src="https://img.shields.io/badge/Editor-IntelliJ-IDEA-_.svg?logo=intellijidea"></a>
+<a href="#"><img src="https://img.shields.io/badge/Version_Control-Git-_.svg?logo=git"></a>
+<a href="#"><img src="https://img.shields.io/badge/Dot_NET-Advanced-_.svg?logo=dotnet"></a>
+<a href="#"><img src="https://img.shields.io/badge/Blazor_WebAssembly-Learning-_.svg?logo=blazor"></a>
+
+
+
 <!--
 **skuehlshelby/skuehlshelby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
