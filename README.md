@@ -1,4 +1,4 @@
-<div width="1000" style="overflow: hidden">
+<div height="100" width="1000" style="overflow: hidden">
 	<a href="#"><img src="img/mushroom.webp"></a>
 </div>
 
