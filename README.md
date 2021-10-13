@@ -1,7 +1,7 @@
 <a href="#"><img src="img/mushroom.png"></a>
 
 ## 🔧 Technologies & Tools I Use
-<a href="#"><img src="https://img.shields.io/badge/Visual_Studio-Editor-_.svg?logo=visualstudio"></a>
+<a href="#"><img src="https://img.shields.io/badge/Visual_Studio-Editor_.svg?logo=visualstudio"></a>
 <a href="#"><img src="https://img.shields.io/badge/VS_Code-Editor-_.svg?logo=visualstudiocode"></a>
 <a href="#"><img src="https://img.shields.io/badge/IntelliJ_IDEA-Editor-_.svg?logo=intellijidea"></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-Version_Control-_.svg?logo=git"></a>
