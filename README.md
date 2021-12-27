@@ -1,4 +1,7 @@
-<a href="#"><img src="img/dot-net-core-black.png"></a>
+<a href="#">
+![GitHub-Mark-Light]<img src="img/dot-net-core-light.png?sanitize=true#gh-light-mode-only">
+![GitHub-Mark-Dark]<img src="img/dot-net-core-light.png?sanitize=true#gh-dark-mode-only">
+</a>
 
 ## 🔧 Technologies & Tools I Use
 <a href="#"><img src="https://img.shields.io/badge/Visual_Studio-_.svg?logo=visualstudio"></a>
