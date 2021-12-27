@@ -1,5 +1,5 @@
-<img src="img/dot-net-core-light.png?sanitize=true#gh-light-mode-only">
-<img src="img/dot-net-core-dark.png?sanitize=true#gh-dark-mode-only">
+<img src="img/dot-net-core-light.png#gh-light-mode-only">
+<img src="img/dot-net-core-dark.png#gh-dark-mode-only">
 
 ## 🔧 Technologies & Tools I Use
 <a href="#"><img src="https://img.shields.io/badge/Visual_Studio-_.svg?logo=visualstudio"></a>
