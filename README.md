@@ -1,4 +1,4 @@
-<a href="#"><img src="img/dot-neT-core.png"></a>
+<a href="#"><img src="img/dot-net-core.png"></a>
 
 ## 🔧 Technologies & Tools I Use
 <a href="#"><img src="https://img.shields.io/badge/Visual_Studio-_.svg?logo=visualstudio"></a>
