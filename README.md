@@ -1,6 +1,6 @@
 <a href="#">
-![GitHub-Mark-Light]<img src="img/dot-net-core-light.png?sanitize=true#gh-light-mode-only">
-![GitHub-Mark-Dark]<img src="img/dot-net-core-light.png?sanitize=true#gh-dark-mode-only">
+<img src="img/dot-net-core-light.png?sanitize=true#gh-light-mode-only">
+<img src="img/dot-net-core-light.png?sanitize=true#gh-dark-mode-only">
 </a>
 
 ## 🔧 Technologies & Tools I Use
